@@ -27,6 +27,12 @@ My immediate interest is in testing the [API](https://librivox.org/api/info) end
   curl "http://librivox.org.test/api/feed/audiobooks/?id=52"
 ```
 
+#### Update catalog PHP:
+
+```bash
+  call bin\3_update_catalog_php.bat
+```
+
 #### Legal:
 
 * copyright: [Warren Bank](https://github.com/warren-bank)
