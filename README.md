@@ -12,8 +12,8 @@ My immediate interest is in testing the [API](https://librivox.org/api/info) end
      call bin\1_install_server.bat
    ```
 2. via prebuilt release
-   * [download](https://github.com/warren-bank/librivox-localhost/releases)
-   * unzip
+   * [download](https://github.com/warren-bank/librivox-localhost/releases) the file: `Laragon.7z`
+   * unzip into the directory: `dist\PortableApps`
 
 #### Restart server:
 
